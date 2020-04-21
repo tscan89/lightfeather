@@ -122,4 +122,12 @@ dmypy.json
 # IDE
 .idea
 
+# React
+.DS_*
+logs
+**/*.backup.*
+**/*.back.*
+node_modules
+bower_components
+
 # End of https://www.gitignore.io/api/django
